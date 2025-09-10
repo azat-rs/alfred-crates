@@ -1,6 +1,6 @@
 # Crates (Rust) — Alfred Workflow
 
-<img src="assets/img/alfred-crates-logo.png" alt="Crates Workflow Logo" width="200" align="center">
+<center><img src="assets/img/alfred-crates-logo.png" alt="Crates Workflow Logo" width="200" align="center"></center>
 
 🔎 Search [crates.io](https://crates.io) packages directly from [Alfred](https://www.alfredapp.com/).
 Quickly check the latest version, open documentation, or copy install commands.
