@@ -42,14 +42,6 @@ Quickly check the latest version, open documentation, or copy install commands.
 
 ---
 
-## 🗂 Project Info
-
-- **Bundle ID:** `com.azatrs.alfred.crates`
-- **Author:** [Azat (azataiot)](https://github.com/azataiot)
-- **Repo:** [azat-rs/alfred-crates](https://github.com/azat-rs/alfred-crates)
-
----
-
 ## 📄 License
 
 MIT © Azat (azataiot)
